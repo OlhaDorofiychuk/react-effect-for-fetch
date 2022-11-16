@@ -21,7 +21,7 @@ function ArtsSection() {
               <li key={art.id}>
                 <div className="frame">
                   <img
-                    src={`httpsgit ://www.artic.edu/iiif/2/${art.image_id}/full/843,/0/default.jpg`}
+                    src={`https://www.artic.edu/iiif/2/${art.image_id}/full/843,/0/default.jpg`}
                     alt={art.title}
                   />
                 </div>
